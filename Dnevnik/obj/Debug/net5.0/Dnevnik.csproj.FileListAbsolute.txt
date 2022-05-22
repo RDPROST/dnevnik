@@ -1,0 +1,6 @@
+/Users/nikitadovgan/Projects/Dnevnik/Dnevnik/obj/Debug/net5.0/Dnevnik.csproj.AssemblyReference.cache
+/Users/nikitadovgan/Projects/Dnevnik/Dnevnik/obj/Debug/net5.0/Dnevnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitadovgan/Projects/Dnevnik/Dnevnik/obj/Debug/net5.0/Dnevnik.AssemblyInfoInputs.cache
+/Users/nikitadovgan/Projects/Dnevnik/Dnevnik/obj/Debug/net5.0/Dnevnik.AssemblyInfo.cs
+/Users/nikitadovgan/Projects/Dnevnik/Dnevnik/obj/Debug/net5.0/Dnevnik.csproj.CoreCompileInputs.cache
+/Users/nikitadovgan/Projects/Dnevnik/Dnevnik/obj/Debug/net5.0/Dnevnik.MvcApplicationPartsAssemblyInfo.cache
